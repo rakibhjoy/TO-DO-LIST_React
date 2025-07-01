@@ -67,7 +67,7 @@ This app is designed for productivity, premium aesthetics, and ease of use—per
 
 ## 📸 Screenshots
 
-> _Add screenshots here to showcase the UI!_
+./screenshots/ss1.png
 
 ---
 
