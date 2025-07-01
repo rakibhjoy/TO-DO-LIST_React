@@ -70,12 +70,6 @@ This app is designed for productivity, premium aesthetics, and ease of use—per
 
 ---
 
-## 📸 Screenshots
-
-![Home Page](./screenshots/ss1.png)
-
----
-
 ## 📄 License
 
 This project is open source and available under the [MIT License](LICENSE).
