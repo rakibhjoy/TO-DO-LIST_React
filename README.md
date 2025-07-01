@@ -1,4 +1,3 @@
-
 # 📝 Modern To-Do List App
 
 A beautiful, modern, and user-friendly to-do list application built with **React** and **Material-UI**.  
@@ -56,9 +55,6 @@ This app is designed for productivity, premium aesthetics, and ease of use—per
    npm run dev
    ```
 
-4. **Open your browser:**  
-   Visit [http://localhost:5173](http://localhost:5173) (or the port shown in your terminal).
-
 ---
 
 ## 🛠️ Built With
@@ -79,9 +75,3 @@ This app is designed for productivity, premium aesthetics, and ease of use—per
 
 This project is open source and available under the [MIT License](LICENSE).
 
----
-
-## 🙏 Acknowledgements
-
-- [Material-UI](https://mui.com/) for the beautiful component library.
-- [Vite](https://vitejs.dev/) for fast React development.
