@@ -4,6 +4,9 @@ A beautiful, modern, and user-friendly to-do list application built with **React
 This app is designed for productivity, premium aesthetics, and ease of use—perfect for anyone who wants to manage tasks in style.
 
 ---
+## 📸 Screenshots
+
+![Home Page](./screenshots/ss1.png)
 
 ## ✨ Features
 
@@ -67,7 +70,7 @@ This app is designed for productivity, premium aesthetics, and ease of use—per
 
 ## 📸 Screenshots
 
-screenshots/ss1.png
+![Home Page](./screenshots/ss1.png)
 
 ---
 
