@@ -67,7 +67,7 @@ This app is designed for productivity, premium aesthetics, and ease of use—per
 
 ## 📸 Screenshots
 
-./screenshots/ss1.png
+screenshots/ss1.png
 
 ---
 
