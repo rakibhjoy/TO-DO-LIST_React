@@ -7,6 +7,8 @@ This app is designed for productivity, premium aesthetics, and ease of use—per
 ## 📸 Screenshots
 
 ![Home Page](./screenshots/ss1.png)
+![Home Page](./screenshots/ss2.png)
+![Home Page](./screenshots/ss3.png)
 
 ## ✨ Features
 
